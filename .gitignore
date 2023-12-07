@@ -140,3 +140,4 @@ kaggle.json
 packages/ml_api/uploads/*
 
 *.png
+*.h5
